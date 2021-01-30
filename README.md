@@ -1,4 +1,9 @@
-# FTP
+# FTP Client
+
+- **Group members:**
+    - [Rocas777](https://github.com/rocas777)
+    - [Nunation](https://github.com/NunationFL) 
+
 
 
 #### build:
