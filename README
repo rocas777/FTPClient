@@ -1,0 +1,8 @@
+to build run:
+	make 
+or else:
+	gcc main.c funcs.c -o download
+
+to run:
+	./download ftp://[<user>:<password>@]<host>/<url-path>
+	
